@@ -1,0 +1,45 @@
+    {
+        question: "Q. Which of these tags does not have an end tag?",
+        choices: ["<HTML>", " <BR>", "<P>", "<H1>"],
+        answer: "<BR>"
+    },
+    {
+        question: "Q. JAVA SCRIPT program is saved using _________ extension.",
+        choices: [".HTML", ".CSS", ".JS", ".SCRIPT"],
+        answer: ".JS"
+    },
+    {
+        question: "Q. Which character is used to indicate an end tag?",
+        choices: ["/", ">", "|", "\"],
+        answer: "/"
+    },
+    {
+        question: "Q. How can you make a numbered list?",
+        choices: ["<LIST>", "<OL>", "<UL>", "<DEL>"],
+        answer: "<OL>"
+    },
+    {
+        question: "Q. How can you make a bulleted list?",
+        choices: ["<DEL>", "<OL>", "<LIST>", "<UL>"],
+        answer: "<UL>"
+    },
+    {
+        question: "Q. Which doctype is correct for HTML5?",
+        choices: ["<!DOCTYPE HTML>", "<DOCTYPE HTML!>", "<DOCTYPE HTML>", "</DOCTYPE HTML>"],
+        answer: "<!DOCTYPE HTML>"
+    },
+    {
+        question: "Q. Choose the correct HTML element for the largest heading:",
+        choices: ["<H6>", "<H1>", "<HEADING>", "<HEAD>"],
+        answer: "<H1>"
+    },
+    {
+        question: "Q. Choose the correct HTML element to define important text:",
+        choices: ["<I>", "<IMP>", "<STRONG>", "<B>"],
+        answer: "<STRONG>"
+    },
+    {
+        question: "Q. Choose the correct HTML element to define emphasized text:",
+        choices: ["<ITALIC>", "<DEL>", "<PRE>", "<EM>"],
+        answer: "<EM>"
+    },
